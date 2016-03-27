@@ -8,7 +8,7 @@
  echo "<p>Hello $world</p>"; 
  $world = "more text";
   echo "<p>Hello $world</p>"; 
- echo "publish changes to github public repository..."
+ echo "publish changes to github public repository master..."
  ?> 
  </body>
 </html>
